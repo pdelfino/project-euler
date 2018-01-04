@@ -8,7 +8,7 @@ _It appears that you have answered your own question. There is nothing quite lik
 
 Hence, I won't be posting my answers on Github. If you already solved the questions checked bellow and want to discuss them with me, send me an email at p.deltino at gmail dot com.
 
-Currentyly, I solved the following exercises with Python 3:
+Currently, I solved the following exercises with Python 3:
 
 - [X] 1
 - [x] 2
