@@ -1,4 +1,4 @@
-# Project Euler Project
+# My solutions to Project Euler
 
 The Project Euler team explicitly say people should not share their answers:
 
