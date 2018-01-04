@@ -1,4 +1,4 @@
-# Project Euler exercises with Python
+# Project Euler Project
 
 The Project Euler team explicitly say people should not share their answers:
 
