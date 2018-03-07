@@ -29,4 +29,4 @@ Currently, I solved the following exercises with Python 3:
 - [ ] 17
 - [ ] 18
 - [ ] 19
-- [ ] 20
+- [X] 20
