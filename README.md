@@ -38,3 +38,6 @@ Currently, I solved the following exercises with Python 3:
 - [ ] 18
 - [ ] 19
 - [X] 20
+---
+- [X] 30
+
