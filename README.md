@@ -40,5 +40,6 @@ Currently, I solved the following exercises with Python 3:
 - [X] 20
 ---
 - [X] 30
+- [X] 36
 - [X] 48
 
