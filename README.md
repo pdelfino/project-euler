@@ -19,20 +19,20 @@ and want to discuss them with me, send me an email at p.deltino at gmail dot com
 Currently, I solved the following exercises with Python 3:
 
 - [X] 1
-- [x] 2
-- [x] 3
-- [x] 4
+- [X] 2
+- [X] 3
+- [X] 4
 - [X] 5
 - [X] 6
-- [ ] 7
+- [X] 7
 - [ ] 8
 - [ ] 9
-- [ ] 10
+- [X] 10
 - [ ] 11
 - [ ] 12
 - [ ] 13
 - [X] 14
-- [ ] 15
+- [X] 15
 - [ ] 16
 - [ ] 17
 - [ ] 18
@@ -41,5 +41,15 @@ Currently, I solved the following exercises with Python 3:
 ---
 - [X] 30
 - [X] 36
+- [X] 41
 - [X] 48
+- [X] 55
+- [X] 63
+- [X] 74
+- [X] 87
+- [X] 206
+
+
+
+
 
