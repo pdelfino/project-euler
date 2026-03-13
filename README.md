@@ -1,56 +1,28 @@
-# My solutions to Project Euler
+# Project Euler -- Solutions
 
-The Project Euler team explicitly say people should not share their answers:
+![Portrait of Leonhard Euler](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Leonhard_Euler_-_Jakob_Emanuel_Handmann_%28Kunstmuseum_Basel%29.jpg/960px-Leonhard_Euler_-_Jakob_Emanuel_Handmann_%28Kunstmuseum_Basel%29.jpg)
 
-Q: I learned so much solving problem XXX so is it okay to publish my solution elsewhere?
-<pre>
+*Portrait of Leonhard Euler (1753) by Jakob Emanuel Handmann — [Wikipedia](https://en.wikipedia.org/wiki/Leonhard_Euler)*
 
-A: It appears that you have answered your own question. There is nothing quite like that "Aha!" 
-moment when you finally beat a problem which you have been working on for some time. It is often 
-through the best of intentions in wishing to share our insights so that others can enjoy that moment
-too. Sadly, however, that will not be the case for your readers. Real learning is an active
-process and seeing how it is done is a long way from experiencing that epiphany of discovery. 
-Please do not deny others what you have so richly valued yourself.
-</pre>
+My solutions to [Project Euler](https://projecteuler.net/) problems, a collection of challenging mathematical and computational puzzles that require a combination of number theory, combinatorics, and programming to solve.
 
-Hence, I won't be posting my answers on Github. If you already solved the questions checked bellow 
-and want to discuss them with me, send me an email at p.deltino at gmail dot com.
+## About
 
-Currently, I solved the following exercises with Python 3:
+Project Euler is a series of problems that demand more than just programming skill -- each one involves finding an efficient mathematical insight before writing any code. The problems range from accessible warm-ups to research-level challenges.
 
+In respect of the Project Euler community guidelines, **solutions are not published in this repository**. The team behind Project Euler encourages solvers to experience the discovery process firsthand rather than reading others' answers.
 
-- [X] 30
-- [X] 36
-- [X] 41
-- [X] 48
-- [X] 55
-- [X] 63
-- [X] 74
-- [X] 87
-- [X] 206
+If you have already solved any of the problems listed below and would like to discuss approaches, feel free to reach out.
 
-------
+## Progress
 
-- [X] 1
-- [X] 2
-- [X] 3
-- [X] 4
-- [X] 5
-- [X] 6
-- [X] 7
-- [ ] 8
-- [ ] 9
-- [X] 10
-- [ ] 11
-- [ ] 12
-- [ ] 13
-- [X] 14
-- [X] 15
-- [ ] 16
-- [ ] 17
-- [ ] 18
-- [ ] 19
-- [X] 20
+**19 problems solved** using Python 3.
 
+### Solved
 
+- [X] 1, 2, 3, 4, 5, 6, 7, 10, 14, 15, 20
+- [X] 30, 36, 41, 48, 55, 63, 74, 87, 206
 
+## Tech Stack
+
+- Python 3
