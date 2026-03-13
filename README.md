@@ -1,6 +1,6 @@
 # Project Euler -- Solutions
 
-![Portrait of Leonhard Euler](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Leonhard_Euler_-_Jakob_Emanuel_Handmann_%28Kunstmuseum_Basel%29.jpg/960px-Leonhard_Euler_-_Jakob_Emanuel_Handmann_%28Kunstmuseum_Basel%29.jpg)
+![Portrait of Leonhard Euler](./painting.jpg)
 
 *Portrait of Leonhard Euler (1753) by Jakob Emanuel Handmann — [Wikipedia](https://en.wikipedia.org/wiki/Leonhard_Euler)*
 
